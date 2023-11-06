@@ -1,6 +1,6 @@
 # Fairness in Machine Learning
 
-This project demonstrates how make fair machine learning models.
+This project demonstrates how make fair machine learning models. We would like to give credits to: https://github.com/equialgo/fairness-in-ml/, whose code we have borrowed and modified for the purposes of this assignment.
 
 ## Notebooks
 
